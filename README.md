@@ -1,1 +1,1 @@
-#Segmentacion de imagenes
+# Segmentación de imágenes
